@@ -1,0 +1,19 @@
+body {
+  font-family: monospace;
+  background: #111;
+  color: #0f0;
+  padding: 20px;
+}
+header h1 {
+  text-shadow: 0 0 5px #0f0;
+}
+nav button {
+  margin-right: 10px;
+  background: #222;
+  color: #0f0;
+  border: 1px solid #0f0;
+  cursor: pointer;
+}
+.wiki-section {
+  margin-top: 20px;
+}
